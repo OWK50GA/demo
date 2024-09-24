@@ -1,10 +1,6 @@
 {
   "page": 1,
   "size": 30,
-  "total": 46273,
-  "debug": null,
-  "previous_page": null,
-  "next_page": "/products?page=2&size=30",
   "items": [
     {
         "name": "Smartphone Pro Max",
