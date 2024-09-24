@@ -7,588 +7,425 @@
   "next_page": "/products?page=2&size=30",
   "items": [
     {
-      "name": "Smartphone X12",
-      "description": "A powerful smartphone with an advanced AI camera system.",
-      "unique_id": "UN98765",
-      "url_slug": "smartphone-x12",
-      "is_available": true,
-      "is_service": false,
-      "previous_url_slugs": null,
-      "unavailable": false,
-      "unavailable_start": null,
-      "unavailable_end": null,
-      "id": "b7230cfc49a34261a9993e24bc7d01b1",
-      "parent_product_id": null,
-      "parent": null,
-      "organization_id": "123",
-      "stock_id": null,
-      "product_image": ["https://example.com/images/smartphone-x12.jpg"],
-      "categories": ["Smartphones"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [],
-      "prices": null,
-      "stocks": null,
-      "is_deleted": false,
-      "available_quantity": 50,
-      "selling_price": 799.99,
-      "discounted_price": 749.99,
-      "buying_price": null,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
-    },
-    {
-      "name": "Bluetooth Headphones Pro",
-      "description": "Noise-cancelling Bluetooth headphones with 40-hour battery life.",
-      "unique_id": "UN67890",
-      "url_slug": "bluetooth-headphones-pro",
-      "is_available": true,
-      "is_service": false,
-      "previous_url_slugs": null,
-      "unavailable": false,
-      "unavailable_start": null,
-      "unavailable_end": null,
-      "id": "8b401c4f49444261a9874c8d7c1b02b3",
-      "parent_product_id": null,
-      "parent": null,
-      "organization_id": "123",
-      "stock_id": null,
-      "product_image": ["https://example.com/images/bluetooth-headphones-pro.jpg"],
-      "categories": ["Headphones"],
-      "date_created": "2024-02-20T11:15:25",
-      "last_updated": "2024-02-20T11:15:25",
-      "user_id": "37",
-      "photos": [],
-      "prices": null,
-      "stocks": null,
-      "is_deleted": false,
-      "available_quantity": 150,
-      "selling_price": 199.99,
-      "discounted_price": 179.99,
-      "buying_price": null,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
-    },
-    {
-      "name": "Smartwatch Gen 5",
-      "description": "Next-gen smartwatch with heart-rate monitor and GPS tracking.",
-      "unique_id": "UN12390",
-      "url_slug": "smartwatch-gen-5",
-      "is_available": true,
-      "is_service": false,
-      "previous_url_slugs": null,
-      "unavailable": false,
-      "unavailable_start": null,
-      "unavailable_end": null,
-      "id": "9d241c4f49474261b4443d2dc3c102d4",
-      "parent_product_id": null,
-      "parent": null,
-      "organization_id": "123",
-      "stock_id": null,
-      "product_image": ["https://example.com/images/smartwatch-gen-5.jpg"],
-      "categories": ["Smartwatches"],
-      "date_created": "2024-01-15T12:02:50",
-      "last_updated": "2024-01-15T12:02:50",
-      "user_id": "37",
-      "photos": [],
-      "prices": null,
-      "stocks": null,
-      "is_deleted": false,
-      "available_quantity": 200,
-      "selling_price": 299.99,
-      "discounted_price": 279.99,
-      "buying_price": null,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
-    },
-    {
-      "name": "Smartwatch X5",
-      "description": "A sleek smartwatch with heart rate monitoring.",
-      "unique_id": "UN98765",
-      "url_slug": "smartwatch-x5",
-      "is_available": true,
-      "is_service": false,
-      "previous_url_slugs": null,
-      "unavailable": false,
-      "unavailable_start": null,
-      "unavailable_end": null,
-      "id": "b7230cfc49a34261a9993e24bc7d01b1",
-      "parent_product_id": null,
-      "parent": null,
-      "organization_id": "123",
-      "stock_id": null,
-      "product_image": ["(link unavailable)"],
-      "categories": ["Smartwatches"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "Smartwatch X5 front view",
-          "url": "(link unavailable)"
-        },
-        {
-          "description": "Smartwatch X5 back view",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 299.99,
-        "discounted_price": 249.99
-      },
-      "stocks": {
+        "name": "Smartphone Pro Max",
+        "description": "The latest smartphone with a stunning display and powerful processor.",
+        "unique_id": "GAD001",
+        "id": "08d96ffdg1",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/smartphone-pro-max.jpg"
+            }
+        ],
+        "current_price": 1200.0,
         "available_quantity": 50
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
     },
     {
-      "name": "Wireless Earbuds Pro",
-      "description": "High-quality wireless earbuds with long battery life.",
-      "unique_id": "UN98766",
-      "url_slug": "wireless-earbuds-pro",
-      "is_available": true,
-      "is_service": false,
-      "previous_url_slugs": null,
-      "unavailable": false,
-      "unavailable_start": null,
-      "unavailable_end": null,
-      "id": "b7230cfc49a34261a9993e24bc7d01b2",
-      "parent_product_id": null,
-      "parent": null,
-      "organization_id": "123",
-      "stock_id": null,
-      "product_image": ["(link unavailable)"],
-      "categories": ["Headphones"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "Wireless Earbuds Pro charging case",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 199.99,
-        "discounted_price": 149.99
-      },
-      "stocks": {
-        "available_quantity": 30
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
+        "name": "Bluetooth Speaker X",
+        "description": "Portable Bluetooth speaker with deep bass and long battery life.",
+        "unique_id": "GAD002",
+        "id": "08d96ffdg2",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/bluetooth-speaker-x.jpg"
+            }
+        ],
+        "current_price": 150.0,
+        "available_quantity": 200
     },
     {
-      "name": "Smartwatch X5",
-      "description": "A sleek smartwatch with heart rate monitoring.",
-      "unique_id": "UN98765",
-      "url_slug": "smartwatch-x5",
-      "is_available": true,
-      "is_service": false,
-      "previous_url_slugs": null,
-      "unavailable": false,
-      "unavailable_start": null,
-      "unavailable_end": null,
-      "id": "b7230cfc49a34261a9993e24bc7d01b1",
-      "parent_product_id": null,
-      "parent": null,
-      "organization_id": "123",
-      "stock_id": null,
-      "product_image": ["(link unavailable)"],
-      "categories": ["Smartwatches"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "Smartwatch X5 front view",
-          "url": "(link unavailable)"
-        },
-        {
-          "description": "Smartwatch X5 back view",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 299.99,
-        "discounted_price": 249.99
-      },
-      "stocks": {
-        "available_quantity": 50
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
+        "name": "Wireless Charger Pad",
+        "description": "Fast wireless charging pad compatible with all Qi devices.",
+        "unique_id": "GAD003",
+        "id": "08d96ffdg3",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/wireless-charger-pad.jpg"
+            }
+        ],
+        "current_price": 50.0,
+        "available_quantity": 120
     },
     {
-      "name": "Wireless Earbuds Pro",
-      "description": "High-quality wireless earbuds with long battery life.",
-      "unique_id": "UN98766",
-      "url_slug": "wireless-earbuds-pro",
-      "is_available": true,
-      "is_service": false,
-      "previous_url_slugs": null,
-      "unavailable": false,
-      "unavailable_start": null,
-      "unavailable_end": null,
-      "id": "b7230cfc49a34261a9993e24bc7d01b2",
-      "parent_product_id": null,
-      "parent": null,
-      "organization_id": "123",
-      "stock_id": null,
-      "product_image": ["(link unavailable)"],
-      "categories": ["Headphones"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "Wireless Earbuds Pro charging case",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 199.99,
-        "discounted_price": 149.99
-      },
-      "stocks": {
-        "available_quantity": 30
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
-    },
-    {
-      "name": "4K Ultra HD Smart TV",
-      "description": "A 55-inch 4K smart TV with built-in apps and voice control.",
-      "unique_id": "UN98767",
-      "url_slug": "4k-smart-tv",
-      "is_available": true,
-      "is_service": false,
-      "id": "b7230cfc49a34261a9993e24bc7d01b3",
-      "organization_id": "123",
-      "product_image": ["(link unavailable)"],
-      "categories": ["Televisions"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "Front view of the 4K Ultra HD Smart TV",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 499.99,
-        "discounted_price": 449.99
-      },
-      "stocks": {
-        "available_quantity": 20
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
-    },
-    {
-      "name": "Gaming Laptop Z9",
-      "description": "High-performance gaming laptop with RGB lighting and 16GB RAM.",
-      "unique_id": "UN98768",
-      "url_slug": "gaming-laptop-z9",
-      "is_available": true,
-      "is_service": false,
-      "id": "b7230cfc49a34261a9993e24bc7d01b4",
-      "organization_id": "123",
-      "product_image": ["(link unavailable)"],
-      "categories": ["Laptops"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "Gaming Laptop Z9 with RGB keyboard",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 1299.99,
-        "discounted_price": 1199.99
-      },
-      "stocks": {
-        "available_quantity": 15
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
-    },
-    {
-      "name": "Smart Home Security Camera",
-      "description": "1080p smart home camera with motion detection and night vision.",
-      "unique_id": "UN98769",
-      "url_slug": "home-security-camera",
-      "is_available": true,
-      "is_service": false,
-      "id": "b7230cfc49a34261a9993e24bc7d01b5",
-      "organization_id": "123",
-      "product_image": ["(link unavailable)"],
-      "categories": ["Security"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "Security camera mounted on a wall",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 99.99,
-        "discounted_price": 89.99
-      },
-      "stocks": {
-        "available_quantity": 40
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
-    },
-    {
-      "name": "Wireless Charging Pad",
-      "description": "Fast wireless charger for smartphones and smartwatches.",
-      "unique_id": "UN98770",
-      "url_slug": "wireless-charging-pad",
-      "is_available": true,
-      "is_service": false,
-      "id": "b7230cfc49a34261a9993e24bc7d01b6",
-      "organization_id": "123",
-      "product_image": ["(link unavailable)"],
-      "categories": ["Chargers"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "Wireless charging pad in use",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 39.99,
-        "discounted_price": 29.99
-      },
-      "stocks": {
-        "available_quantity": 100
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
-    },
-    {
-      "name": "Bluetooth Speaker Max",
-      "description": "Portable Bluetooth speaker with deep bass and 12-hour battery life.",
-      "unique_id": "UN98771",
-      "url_slug": "bluetooth-speaker-max",
-      "is_available": true,
-      "is_service": false,
-      "id": "b7230cfc49a34261a9993e24bc7d01b7",
-      "organization_id": "123",
-      "product_image": ["(link unavailable)"],
-      "categories": ["Speakers"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "Bluetooth speaker with glowing lights",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 79.99,
-        "discounted_price": 69.99
-      },
-      "stocks": {
-        "available_quantity": 60
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
-    },
-    {
-      "name": "Noise Cancelling Headphones",
-      "description": "Over-ear headphones with active noise cancellation and 30-hour battery life.",
-      "unique_id": "UN98772",
-      "url_slug": "noise-cancelling-headphones",
-      "is_available": true,
-      "is_service": false,
-      "id": "b7230cfc49a34261a9993e24bc7d01b8",
-      "organization_id": "123",
-      "product_image": ["(link unavailable)"],
-      "categories": ["Headphones"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "Noise Cancelling Headphones close-up",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 249.99,
-        "discounted_price": 199.99
-      },
-      "stocks": {
-        "available_quantity": 35
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
-    },
-    {
-      "name": "Fitness Tracker Pro",
-      "description": "Advanced fitness tracker with GPS and water resistance.",
-      "unique_id": "UN98773",
-      "url_slug": "fitness-tracker-pro",
-      "is_available": true,
-      "is_service": false,
-      "id": "b7230cfc49a34261a9993e24bc7d01b9",
-      "organization_id": "123",
-      "product_image": ["(link unavailable)"],
-      "categories": ["Fitness Trackers"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "Fitness Tracker Pro showing heart rate",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 129.99,
-        "discounted_price": 99.99
-      },
-      "stocks": {
+        "name": "Noise-Cancelling Headphones",
+        "description": "Over-ear headphones with active noise cancellation and superior sound quality.",
+        "unique_id": "GAD004",
+        "id": "08d96ffdg4",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/noise-cancelling-headphones.jpg"
+            }
+        ],
+        "current_price": 300.0,
         "available_quantity": 80
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
     },
     {
-      "name": "Smart Thermostat T10",
-      "description": "Wi-Fi-enabled smart thermostat with voice control and energy-saving features.",
-      "unique_id": "UN98774",
-      "url_slug": "smart-thermostat-t10",
-      "is_available": true,
-      "is_service": false,
-      "id": "b7230cfc49a34261a9993e24bc7d02b1",
-      "organization_id": "123",
-      "product_image": ["(link unavailable)"],
-      "categories": ["Smart Home"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "Smart Thermostat T10 mounted on the wall",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 159.99,
-        "discounted_price": 139.99
-      },
-      "stocks": {
-        "available_quantity": 25
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
-    },
-    {
-      "name": "Smart Light Bulb Set",
-      "description": "Set of 4 smart bulbs with adjustable brightness and color control via app.",
-      "unique_id": "UN98775",
-      "url_slug": "smart-light-bulb-set",
-      "is_available": true,
-      "is_service": false,
-      "id": "b7230cfc49a34261a9993e24bc7d02b2",
-      "organization_id": "123",
-      "product_image": ["(link unavailable)"],
-      "categories": ["Smart Home"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "Smart Light Bulbs in different colors",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 69.99,
-        "discounted_price": 59.99
-      },
-      "stocks": {
+        "name": "Smartwatch S",
+        "description": "A fitness-focused smartwatch with heart rate tracking and GPS.",
+        "unique_id": "GAD005",
+        "id": "08d96ffdg5",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/smartwatch-s.jpg"
+            }
+        ],
+        "current_price": 250.0,
         "available_quantity": 100
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
     },
     {
-      "name": "VR Headset Elite",
-      "description": "High-end virtual reality headset with immersive 360° viewing.",
-      "unique_id": "UN98776",
-      "url_slug": "vr-headset-elite",
-      "is_available": true,
-      "is_service": false,
-      "id": "b7230cfc49a34261a9993e24bc7d02b3",
-      "organization_id": "123",
-      "product_image": ["(link unavailable)"],
-      "categories": ["VR & AR"],
-      "date_created": "2024-04-10T08:30:00",
-      "last_updated": "2024-04-10T08:30:00",
-      "user_id": "37",
-      "photos": [
-        {
-          "description": "VR Headset Elite in use",
-          "url": "(link unavailable)"
-        }
-      ],
-      "prices": {
-        "selling_price": 499.99,
-        "discounted_price": 449.99
-      },
-      "stocks": {
-        "available_quantity": 10
-      },
-      "is_deleted": false,
-      "extra_infos": null,
-      "featured_reviews": null,
-      "unavailability": []
+        "name": "Drone 4K",
+        "description": "High-performance drone with 4K video recording and image stabilization.",
+        "unique_id": "GAD006",
+        "id": "08d96ffdg6",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/drone-4k.jpg"
+            }
+        ],
+        "current_price": 900.0,
+        "available_quantity": 30
     },
-  ]
+    {
+        "name": "Gaming Laptop Ultra",
+        "description": "Powerful gaming laptop with high-end graphics and fast refresh rate.",
+        "unique_id": "GAD007",
+        "id": "08d96ffdg7",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/gaming-laptop-ultra.jpg"
+            }
+        ],
+        "current_price": 2500.0,
+        "available_quantity": 40
+    },
+    {
+        "name": "Wireless Earbuds",
+        "description": "Compact wireless earbuds with great sound and fast charging.",
+        "unique_id": "GAD008",
+        "id": "08d96ffdg8",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/wireless-earbuds.jpg"
+            }
+        ],
+        "current_price": 120.0,
+        "available_quantity": 300
+    },
+    {
+        "name": "Smart Home Hub",
+        "description": "Central hub to control all your smart home devices.",
+        "unique_id": "GAD009",
+        "id": "08d96ffdg9",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/smart-home-hub.jpg"
+            }
+        ],
+        "current_price": 200.0,
+        "available_quantity": 90
+    },
+    {
+        "name": "VR Headset",
+        "description": "Immerse yourself in virtual reality with this high-definition headset.",
+        "unique_id": "GAD010",
+        "id": "08d96ffdg10",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/vr-headset.jpg"
+            }
+        ],
+        "current_price": 600.0,
+        "available_quantity": 45
+    },
+    {
+        "name": "Smart Thermostat",
+        "description": "Energy-efficient smart thermostat with learning capabilities.",
+        "unique_id": "GAD011",
+        "id": "08d96ffdg11",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/smart-thermostat.jpg"
+            }
+        ],
+        "current_price": 220.0,
+        "available_quantity": 70
+    },
+    {
+        "name": "Fitness Tracker Band",
+        "description": "Waterproof fitness tracker with sleep and activity tracking.",
+        "unique_id": "GAD012",
+        "id": "08d96ffdg12",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/fitness-tracker-band.jpg"
+            }
+        ],
+        "current_price": 80.0,
+        "available_quantity": 400
+    },
+    {
+        "name": "Smart Light Bulb",
+        "description": "Wi-Fi enabled smart light bulb with adjustable brightness and color.",
+        "unique_id": "GAD013",
+        "id": "08d96ffdg13",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/smart-light-bulb.jpg"
+            }
+        ],
+        "current_price": 30.0,
+        "available_quantity": 500
+    },
+    {
+        "name": "Tablet Pro",
+        "description": "High-performance tablet with a stunning display and powerful processor.",
+        "unique_id": "GAD014",
+        "id": "08d96ffdg14",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/tablet-pro.jpg"
+            }
+        ],
+        "current_price": 850.0,
+        "available_quantity": 60
+    },
+    {
+        "name": "Security Camera System",
+        "description": "Complete security camera system with motion detection and night vision.",
+        "unique_id": "GAD015",
+        "id": "08d96ffdg15",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/security-camera-system.jpg"
+            }
+        ],
+        "current_price": 450.0,
+        "available_quantity": 35
+    },
+    {
+        "name": "Robot Vacuum Cleaner",
+        "description": "Smart robot vacuum cleaner with powerful suction and automatic charging.",
+        "unique_id": "GAD016",
+        "id": "08d96ffdg16",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/robot-vacuum-cleaner.jpg"
+            }
+        ],
+        "current_price": 350.0,
+        "available_quantity": 100
+    },
+    {
+        "name": "Smart Lock",
+        "description": "Bluetooth-enabled smart lock with remote control and voice commands.",
+        "unique_id": "GAD017",
+        "id": "08d96ffdg17",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/smart-lock.jpg"
+            }
+        ],
+        "current_price": 180.0,
+        "available_quantity": 75
+    },
+    {
+        "name": "Portable Projector",
+        "description": "Compact projector with HD display for movies and presentations.",
+        "unique_id": "GAD018",
+        "id": "08d96ffdg18",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/portable-projector.jpg"
+            }
+        ],
+        "current_price": 500.0,
+        "available_quantity": 55
+    },
+    {
+        "name": "Wireless Keyboard",
+        "description": "Slim wireless keyboard with a rechargeable battery and Bluetooth connectivity.",
+        "unique_id": "GAD019",
+        "id": "08d96ffdg19",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/wireless-keyboard.jpg"
+            }
+        ],
+        "current_price": 90.0,
+        "available_quantity": 120
+    },
+    {
+        "name": "Noise-Cancelling Earphones",
+        "description": "In-ear earphones with superior noise-cancelling technology.",
+        "unique_id": "GAD020",
+        "id": "08d96ffdg20",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/noise-cancelling-earphones.jpg"
+            }
+        ],
+        "current_price": 110.0,
+        "available_quantity": 85
+    },
+    {
+        "name": "Smart Coffee Maker",
+        "description": "Wi-Fi connected coffee maker with a programmable schedule.",
+        "unique_id": "GAD021",
+        "id": "08d96ffdg21",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/smart-coffee-maker.jpg"
+            }
+        ],
+        "current_price": 150.0,
+        "available_quantity": 50
+    },
+    {
+        "name": "Digital Drawing Tablet",
+        "description": "Professional drawing tablet with pressure-sensitive stylus.",
+        "unique_id": "GAD022",
+        "id": "08d96ffdg22",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/digital-drawing-tablet.jpg"
+            }
+        ],
+        "current_price": 250.0,
+        "available_quantity": 40
+    },
+    {
+        "name": "Smart Bike Helmet",
+        "description": "Bluetooth-enabled helmet with built-in speakers and navigation.",
+        "unique_id": "GAD023",
+        "id": "08d96ffdg23",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/smart-bike-helmet.jpg"
+            }
+        ],
+        "current_price": 300.0,
+        "available_quantity": 35
+    },
+    {
+        "name": "E-Reader",
+        "description": "Lightweight e-reader with a high-resolution display and long battery life.",
+        "unique_id": "GAD024",
+        "id": "08d96ffdg24",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/e-reader.jpg"
+            }
+        ],
+        "current_price": 130.0,
+        "available_quantity": 60
+    },
+    {
+        "name": "Smart Mirror",
+        "description": "Interactive smart mirror with fitness and beauty apps.",
+        "unique_id": "GAD025",
+        "id": "08d96ffdg25",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/smart-mirror.jpg"
+            }
+        ],
+        "current_price": 500.0,
+        "available_quantity": 20
+    },
+    {
+        "name": "Portable SSD",
+        "description": "High-speed portable SSD with USB-C connectivity.",
+        "unique_id": "GAD026",
+        "id": "08d96ffdg26",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/portable-ssd.jpg"
+            }
+        ],
+        "current_price": 200.0,
+        "available_quantity": 95
+    },
+    {
+        "name": "Digital Photo Frame",
+        "description": "Wi-Fi enabled digital photo frame with a high-resolution display.",
+        "unique_id": "GAD027",
+        "id": "08d96ffdg27",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/digital-photo-frame.jpg"
+            }
+        ],
+        "current_price": 120.0,
+        "available_quantity": 40
+    },
+    {
+        "name": "Smart Pet Feeder",
+        "description": "Automatic pet feeder with smartphone control and camera.",
+        "unique_id": "GAD028",
+        "id": "08d96ffdg28",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/smart-pet-feeder.jpg"
+            }
+        ],
+        "current_price": 180.0,
+        "available_quantity": 70
+    },
+    {
+        "name": "Smart Pen",
+        "description": "Digital pen that converts handwritten notes into digital text.",
+        "unique_id": "GAD029",
+        "id": "08d96ffdg29",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/smart-pen.jpg"
+            }
+        ],
+        "current_price": 80.0,
+        "available_quantity": 150
+    },
+    {
+        "name": "Smart Alarm Clock",
+        "description": "Smart alarm clock with a sunrise simulation and voice assistant integration.",
+        "unique_id": "GAD030",
+        "id": "08d96ffdg30",
+        "user_id": "a5a",
+        "photos": [
+            {
+                "url": "org-name/smart-alarm-clock.jpg"
+            }
+        ],
+        "current_price": 70.0,
+        "available_quantity": 85
+    }
+]
 }
      
